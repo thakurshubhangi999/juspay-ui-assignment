@@ -44,12 +44,6 @@ yarn start
 
 This will start the development server and open the project in your default web browser at http://localhost:3000.
 
-Deployment
-The project is deployed on Vercel for easy access and sharing.
-
-You can view the live version of the application at:
-[Live Demo](https://juspay-ui-assignment.vercel.app/)
-
 Folder Structure
 Here’s an overview of the project’s folder structure:
 
