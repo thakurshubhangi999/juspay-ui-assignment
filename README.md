@@ -10,6 +10,12 @@ Before setting up the project, ensure that you have the following installed:
 - **npm** (Node Package Manager) or **yarn** (Optional) - npm is included with Node.js
 - **Git** - [Download Git](https://git-scm.com/)
 
+## Deployment
+The project is deployed on Vercel for easy access and sharing.
+
+You can view the live version of the application at:
+- **Juspay UI Assignment** - [Live Demo](https://juspay-ui-assignment.vercel.app/)
+
 ## Getting Started
 
 Follow the steps below to set up and run the project locally:
