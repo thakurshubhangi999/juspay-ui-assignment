@@ -42,7 +42,7 @@ Deployment
 The project is deployed on Vercel for easy access and sharing.
 
 You can view the live version of the application at:
-**Juspay UI Assignment** - [Live Demo](https://juspay-ui-assignment.vercel.app/)
+[Live Demo](https://juspay-ui-assignment.vercel.app/)
 
 Folder Structure
 Here’s an overview of the project’s folder structure:
