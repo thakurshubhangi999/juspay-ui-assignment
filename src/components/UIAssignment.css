@@ -74,7 +74,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 2px;
   position: absolute;
-  top: calc(70% + 4%);
+  top: calc(70% + 5%);
   left: 10%;
 }
 
@@ -102,7 +102,7 @@
   top: 2%;
   left: 5%;
   width: 35%;
-  height: 55%;
+  height: 65%;
   background-image: linear-gradient(#808080 5px, transparent 1px),
     linear-gradient(90deg, #808080 5px, transparent 1px),
     linear-gradient(#808080 5px, transparent 1px),
