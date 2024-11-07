@@ -107,7 +107,7 @@
     linear-gradient(90deg, #808080 5px, transparent 1px),
     linear-gradient(#808080 5px, transparent 1px),
     linear-gradient(90deg, #808080 5px, transparent 1px);
-  background-size: 65px 65px;
+  background-size: 50px 50px;
   opacity: 0.1;
   pointer-events: none;
   border-radius: 50%;
