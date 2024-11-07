@@ -52,7 +52,7 @@
   line-height: 1.2;
   text-transform: uppercase;
   position: absolute;
-  top: calc(30% + 12%);
+  top: calc(35% + 12%);
   left: 10%;
   z-index: 3;
 }
@@ -101,7 +101,7 @@
   position: absolute;
   top: 2%;
   left: 5%;
-  width: 25%;
+  width: 35%;
   height: 55%;
   background-image: linear-gradient(#808080 5px, transparent 1px),
     linear-gradient(90deg, #808080 5px, transparent 1px),
