@@ -5,7 +5,8 @@ const UIAssignment = () => {
   return (
     <div className="container">
       <div className="label">ASSIGNMENT</div>
-      <h1 className="title">UI DEVELOPER <br/> ASSIGNMENT </h1>
+      <h1 className="title">UI DEVELOPER</h1>
+      <h1 className="subtitle">ASSIGNMENT </h1>
       <div className="company">Company</div>
       <div className="company-info">Juspay Technologies Private Limited</div>
       <div className="background-overlay" />
